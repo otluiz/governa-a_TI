@@ -1,0 +1,1 @@
+Este arquivo é para testar se o github está sincronizado com a pastar (diretório) atual, pois na referida pasta foi clonado os slides de uma aula exemplo.
